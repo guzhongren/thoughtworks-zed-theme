@@ -1,0 +1,7 @@
+id = "thoughtworks"
+name = "Thoughtworks"
+schema_version = 1
+version = "0.3.0"
+authors = ["guzhongren <guzhongren@live.cn>"]
+description = "Thoughtworks theme for Zed (Dark & Light modes)"
+repository = "https://github.com/guzhongren/thoughtworks-zed-theme"
