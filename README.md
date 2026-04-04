@@ -57,13 +57,16 @@ You can also set the theme in your `settings.json`:
 
 | Color | Hex | Usage |
 |-------|-----|-------|
-| Deep Sea | `#003d4f` | Background |
-| Coral Red | `#f2617a` | Accent, Errors, Keywords |
-| Sage Green | `#6b9e78` | Success, Comments |
-| Ocean Blue | `#47a1ad` | Functions, Info |
-| Amber | `#cc850a` | Warnings |
-| Purple | `#634f7d` | Selection, Highlights |
-| Mint Cream | `#edf1f3` | Foreground Text |
+| Onyx Black | `#000000` | Deep backgrounds |
+| Talc White | `#ffffff` | Light backgrounds |
+| Text Grey | `#666666` | Secondary text |
+| Mist Grey | `#edf1f3` | Borders and separators |
+| Wave Blue | `#003d4f` | Primary background (Dark mode) |
+| Flamingo Pink | `#f2617a` | Errors, keywords, accents |
+| Turmeric Yellow | `#cc850a` | Warnings, constants |
+| Jade Green | `#6b9e78` | Success, comments, strings |
+| Sapphire Blue | `#47a1ad` | Functions, info highlights |
+| Amethyst Purple | `#634f7d` | Selection, special highlights |
 
 ## Author
 
