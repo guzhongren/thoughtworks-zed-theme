@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: huacnlee/zed-extension-action@v1
         with:
-          extension-name: thoughtworks-theme
+          extension-name: thoughtworks-styled-theme
           push-to: guzhongren/extensions
         env:
           COMMITTER_TOKEN: ${{ secrets.ZED_EXTENSION_COMMITTER_TOKEN }}

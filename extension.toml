@@ -1,7 +1,7 @@
-id = "thoughtworks-zed-theme"
-name = "Thoughtworks zed Theme"
+id = "thoughtworks-styled-theme"
+name = "Thoughtworks Styled Theme"
 schema_version = 1
-version = "0.3.1"
+version = "0.3.2"
 authors = ["guzhongren <guzhongren@live.cn>"]
 description = "Thoughtworks theme for Zed (Dark & Light modes)"
 repository = "https://github.com/guzhongren/thoughtworks-zed-theme"
